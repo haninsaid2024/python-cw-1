@@ -1,11 +1,11 @@
 print('haneen')
-print(x+y=8)
-print(x/y)  
-print(x*y)
+print(4+4)
+print(4/4)  
+print(4*4)
 
 
 length=4
 width=5
 area= length*width
-print('' the result is {area}'') 
+print( f" the result is {area}") 
  
